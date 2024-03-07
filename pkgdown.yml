@@ -3,5 +3,8 @@ pkgdown: 2.0.7
 pkgdown_sha: ~
 articles:
   argentina: argentina.html
-last_built: 2024-03-07T14:38Z
+last_built: 2024-03-07T14:44Z
+urls:
+  reference: https://soyandrea.github.io/argentina/reference
+  article: https://soyandrea.github.io/argentina/articles
 
